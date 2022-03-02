@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6ba8w2e2wj70oqqf/branch/master?svg=true)](https://ci.appveyor.com/project/lekseff/homeworks-4-2/branch/master)
+
+
 ## Методы
 
 ### Легенда
